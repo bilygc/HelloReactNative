@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\bily\\Documents\\HelloReactNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\bily\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\be4b74bcf3e70c7b0c1ff64c26cb50ef\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\bily\\Documents\\HelloReactNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\bily\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\be4b74bcf3e70c7b0c1ff64c26cb50ef\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

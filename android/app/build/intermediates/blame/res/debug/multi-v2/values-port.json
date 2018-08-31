@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bily\\Documents\\HelloReactNative\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bily\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\be4b74bcf3e70c7b0c1ff64c26cb50ef\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\bily\\Documents\\HelloReactNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bily\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\be4b74bcf3e70c7b0c1ff64c26cb50ef\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
